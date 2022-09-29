@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index"
   },
   "dependencies": {
     "nodemon": "^2.0.20",
